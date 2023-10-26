@@ -1,0 +1,76 @@
+{
+  "restaurants": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Bring Your Phone Cafe",
+      "description": "Bring Your Phone Cafe adalah tempat yang inovatif dan modern yang menggabungkan pengalaman kafe dengan dunia digital yang terus berkembang. Ini bukan hanya kafe biasa karena kafe ini adalah tempat yang dirancang khusus untuk memenuhi kebutuhan pecinta kopi dan teknologi yang terus berjalan. <br> Bring Your Phone Cafe adalah tempat yang memadukan aroma segar kopi, makanan lezat, dan konektivitas digital dalam suasana yang nyaman dan ramah.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/41",
+      "city": "Medan",
+      "rating": 4.6
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Run The Gun",
+      "description": "Run The Gun adalah restoran yang menggabungkan rasa lezat dengan pelayanan cepat yang luar biasa. Kami memahami bahwa waktu berharga, dan itulah mengapa kami mempersembahkan pengalaman kuliner yang tak tertandingi dalam suasana yang nyaman. Restoran kami menawarkan berbagai hidangan yang memanjakan lidah Anda, siap untuk dinikmati dengan cepat.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/07",
+      "city": "Bali",
+      "rating": 4.6
+    },
+    {
+      "id": "fe8bbxoazddkcowlqdz",
+      "name": "Pangsit Express",
+      "description": "Pangsit Express adalah restoran yang menghadirkan cita rasa autentik pangsit dalam suasana yang hangat dan ramah. Kami berkomitmen untuk memberikan pengalaman kuliner yang tak terlupakan dengan hidangan pangsit yang lezat dan beraneka ragam. Setiap gigitan membawa Anda dalam perjalanan rasa yang memuaskan.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/29",
+      "city": "Ternate",
+      "rating": 4.8
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Ducky Duck",
+      "description": "Ducky Duck adalah destinasi kuliner yang memikat hati dengan hidangan lezat yang unik, dihidangkan dalam suasana yang akrab dan nyaman. Kami adalah restoran yang menghadirkan pengalaman makan yang tak terlupakan dengan sentuhan kreatif dan rasa yang memanjakan lidah Anda.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+      "city": "Malang",
+      "rating": 4.7
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Kafein",
+      "description": "Kafein adalah restoran yang memadukan cita rasa kopi yang luar biasa dengan hidangan kuliner yang lezat dalam suasana yang berenergi tinggi. Kami adalah destinasi bagi para pencinta kopi sejati yang mencari lebih dari sekadar minuman penyegar. Di Kafein, kami menawarkan pengalaman kuliner yang unik, yang memenuhi lidah Anda dan merangsang indera Anda.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/40",
+      "city": "Bali",
+      "rating": 3.8
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "Makan mudah",
+      "description": "Makan Mudah adalah restoran yang memahami bahwa kesederhanaan adalah kunci kelezatan sejati. Kami berkomitmen untuk memberikan pengalaman kuliner yang memanjakan lidah Anda dengan hidangan-hidangan yang sederhana namun lezat. Di Makan Mudah, kami merayakan rasa makanan yang tulus dan kegembiraan dalam makan bersama.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/08",
+      "city": "Malang",
+      "rating": 4.6
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Saya Suka",
+      "description": "Saya Suka lebih dari sekedar restoran ini adalah tempat yang memanjakan lidah Anda dengan hidangan lezat yang disiapkan dengan cinta dan keahlian. Kami mengundang Anda untuk menjelajahi ragam cita rasa dalam suasana yang hangat dan ramah, yang membuat Anda merasa seperti di rumah.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+      "city": "Surabaya",
+      "rating": 3.6
+    },
+    {
+      "id": "8i06gqcc2dpkcowlqdz",
+      "name": "Gigitan Cepat",
+      "description": "Gigitan Cepat adalah restoran yang memahami arti dari makanan cepat dan lezat. Kami hadir untuk memanjakan lidah Anda dengan hidangan lezat yang dapat dinikmati dalam sekejap, tanpa mengorbankan kualitas dan rasa autentik. Kami mengundang Anda untuk menjelajahi menu kami yang beragam dalam suasana santai yang penuh semangat.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/45",
+      "city": "Aceh",
+      "rating": 4
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Fairy Cafe",
+      "description": "Fairy Cafe adalah restoran yang menawarkan pengalaman kuliner yang luar biasa dengan sentuhan keajaiban. Di sini, kami merayakan kreativitas dalam hidangan yang lezat dan suasana yang memukau. Kami mengundang Anda untuk memasuki dunia keajaiban kami dan menjelajahi ragam cita rasa yang menakjubkan.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/04",
+      "city": "Malang",
+      "rating": 3.9
+    }
+  ]
+}

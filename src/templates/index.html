@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <link rel="manifest" href="./app.webmanifest" />
+    <meta name="theme-color" content="#000000" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      crossorigin="anonymous"
+    />
+    <title>Restouille Website</title>
+  </head>
+
+  <body>
+    <header class="app-bar">
+      <div class="app-bar__menu">
+        <a href="#maincontent" class="skip-link">Menuju ke konten</a>
+        <button id="hamburgerButton">☰</button>
+      </div>
+      <div class="app-bar__brand">
+        <h1>Restouille Website</h1>
+      </div>
+      <nav id="navigationDrawer" class="app-bar__navigation">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="#/favorite">Favorite</a></li>
+          <li>
+            <a href="https://www.linkedin.com/in/ericdavinsen">About Us</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="hero">
+      <div class="hero__inner">
+        <h1 tabindex="0" class="hero__title">Find Your Favorite Restaurant</h1>
+        <search-bar></search-bar>
+        <p tabindex="0" class="hero__tagline">
+          Temukan restaurant dengan makanan dan minuman sesuai dengan selera
+          anda!
+        </p>
+      </div>
+    </div>
+    <main>
+      <section tabindex="0" class="content" id="maincontent"></section>
+    </main>
+    <footer>
+      <p tabindex="0" class="copyright">Copyright &#169; 2023, Restouille</p>
+    </footer>
+  </body>
+</html>
